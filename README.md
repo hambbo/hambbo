@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=waving&height=300&section=header&text=Creating Playable Experiences%20render&fontSize=90)
 <!--
 **hambbo/hambbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![header](https://capsule-render.vercel.app/api?type=venom&color=waving&height=300&section=header&text=Creating Playable Experiences%20render&fontSize=90)
-![header](https://capsule-render.vercel.app/api?text=Creating Playable Experiences%!&fontColor=d6ace6)
