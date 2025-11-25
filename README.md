@@ -1,5 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Creating%20Playable%20Experiences&fontSize=60)](https://capsule-render.vercel.app/api?type=waving&color=4c5e72&height=300&section=header&text=Creating%20Playable%20Experiences&fontSize=80&fontColor=fff5f5&fontAlignY=40
-)
+https://capsule-render.vercel.app/api?type=waving&color=4c5e72&height=300&section=header&text=Creating%20Playable%20Experiences&fontSize=80&fontColor=fff5f5&fontAlignY=40
 
 ## Hi there 👋
 
